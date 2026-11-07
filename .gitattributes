@@ -1,0 +1,3 @@
+# Normalise text to LF in the repository so a Windows checkout and a Linux checkout
+# produce the same bytes; the skill is markdown and PowerShell, both fine with LF.
+* text=auto eol=lf
